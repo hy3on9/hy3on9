@@ -4,9 +4,4 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-hy3on9/hy3on9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <img src="https://github.com/hy3on9/hy3on9/blob/output/github-contribution-grid-snake.svg"/>
